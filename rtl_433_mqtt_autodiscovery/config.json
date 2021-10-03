@@ -26,5 +26,6 @@
     "rtl_topic": "str",
     "discovery_prefix": "str",
     "discovery_interval": "int"
-  }
+  },
+  "services": ["mqtt:need"]
 }
